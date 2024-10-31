@@ -1,0 +1,6 @@
+﻿   Qt/MSBuild: 3.3.0.13
+   Qt: 5.15.7
+  Qt_Test_Task.cpp
+C:\Users\26862\OneDrive\Рабочий стол\Job\Завершенные\Qt_Test_Task\Qt_Test_Task.cpp(61,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\26862\OneDrive\Рабочий стол\Job\Завершенные\Qt_Test_Task\Qt_Test_Task.cpp(62,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Qt_Test_Task.vcxproj -> C:\Users\26862\OneDrive\Рабочий стол\Job\Завершенные\Qt_Test_Task\x64\Debug\Qt_Test_Task.exe
